@@ -59,5 +59,11 @@ The system:
 
 ---
 
-## 🖥️ Streamlit UI
+## 🖥️ Streamlit App
 
+![App](screenshots/reject.png)
+![App](screenshots/approved.png)
+
+## 📊 Model Output
+
+![VS Code](screenshots/choice.png)
