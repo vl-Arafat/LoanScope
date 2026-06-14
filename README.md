@@ -61,9 +61,9 @@ The system:
 
 ## 🖥️ Streamlit App
 
-![App](screenshots/reject.png)
-![App](screenshots/approved.png)
+![App](Screenshots/reject.png)
+![App](Screenshots/approved.png)
 
 ## 📊 Model Output
 
-![VS Code](screenshots/choice.png)
+![VS Code](Screenshots/best-choice.png)
