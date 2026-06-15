@@ -37,6 +37,24 @@ The system:
 
 ---
 
+## 📁 Project Structure
+LoanScope/
+│
+├── app.py
+├── model_train.py
+├── model.pkl
+├── scaler.pkl
+├── loan_approval_large.csv
+├── requirements.txt
+├── README.md
+│
+└── Screenshots/
+    ├── reject.png
+    ├── approved.png
+    └── best-choice.png
+
+---
+
 ## ⚙️ Tech Stack
 
 - Python 🐍  
@@ -67,3 +85,12 @@ The system:
 ## 📊 Model Output
 
 ![VS Code](Screenshots/best-choice.png)
+
+---
+
+## 🚀 Installation & Run Locally
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/vl-Arafat/LoanScope.git
