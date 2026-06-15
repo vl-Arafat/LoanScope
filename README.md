@@ -38,6 +38,8 @@ The system:
 ---
 
 ## 📁 Project Structure
+
+```text
 LoanScope/
 │
 ├── app.py
@@ -53,6 +55,7 @@ LoanScope/
     ├── approved.png
     └── best-choice.png
 
+```
 ---
 
 ## ⚙️ Tech Stack
@@ -94,3 +97,27 @@ LoanScope/
 
 ```bash
 git clone https://github.com/vl-Arafat/LoanScope.git
+```
+
+## 2. Go to project directory
+
+```bash
+cd LoanScope
+```
+
+## 3. Install required packages
+
+```bash
+pip install -r requirements.txt
+```
+
+## 4. Train the model (optional)
+
+```bash
+python model_train.py
+```
+
+## 6. Run Streamlit App
+```bash
+streamlit run app.py
+```
